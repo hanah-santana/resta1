@@ -3,8 +3,11 @@ O jogo Resta 1 é um quebra-cabeça lógico no qual o jogador começa com um tab
 # Motivação
 Este jogo está sendo criado com propósitos didáticos para o aprendizado de programação utilizando sockets na disciplina de Programação Paralela e Distribuída no Instituto Federal do Ceará.
 # Instalação
+Clone este repositório em seu computador, as pastas necessárias já estão inclusas no arquivo.
 # Como iniciar o jogo
+Clique em executável server, quando o servidor estiver já executando, clique em executável cliente. Ambos os chats deverão abrir.
 # Como jogar
+Ainda não é possível jogar.
 # Especificações
 Linguagem de Programação: Python
 GUI: Tkinter
